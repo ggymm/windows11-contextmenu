@@ -1,0 +1,8 @@
+.idea
+/dist/
+/com_handler/target/
+
+*.exe
+*.pdb
+*.dll
+*.zip
